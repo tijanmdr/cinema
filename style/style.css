@@ -1,0 +1,29 @@
+body {
+	text-align: justify;
+}
+.movieThumb img.img.img-responsive {
+	height: 350px;
+}
+.titleMovie.col-md-12 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.navbar.navbar-default {
+	border-color: rgba(0,0,0,0);
+}
+.clear {
+	clear: both;
+}
+.movieDiv {
+	margin-bottom: 15px;
+}
+.movieDivTitle {
+	text-align: center;
+}
+.bookButton.btn.btn-default.col-md-12 {
+	margin-bottom: 10px;
+}
+.footerP {
+	text-align: center;
+}
