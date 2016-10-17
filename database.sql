@@ -79,7 +79,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `name`, `phone_no`, `email`, `password`) VALUES
-(1, 'Abhash Manandhar', '9849734433', 'abhash@gmail.com', 'abhash'),
+(1, 'Abhash Manandhar', '9849734433', 'demo@demo.com', 'demo'),
 (2, 'Tijan Manandhar', '9849682056', 'tijanmdr@gmail.com', 'tijan');
 
 --
